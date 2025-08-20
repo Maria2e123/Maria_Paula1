@@ -38,6 +38,6 @@ document.addEventListener('DOMContentLoaded', function () {
 })
 
 ScrollReveal().reveal('#inicio', { delay: 500 });
-ScrollReveal().reveal('#mclaren', { delay: 500 });
+ScrollReveal().reveal('#catolicismo', { delay: 500 });
 ScrollReveal().reveal('#galeria', { delay: 500 });
 ScrollReveal().reveal('#contato', { delay: 500 });
