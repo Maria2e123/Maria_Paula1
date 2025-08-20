@@ -3,7 +3,7 @@
 
 
 :root {
-    --azul-turquesa: #40E0D0;
+    --vermelho-claro: #FF6961;
 }
 
 
@@ -30,7 +30,7 @@ section {
 
 
 .inicio-fundo {
-    background-image: url('imagens/azul-laranja.png');
+    background-image: url('imagens/vermelho_e_branco.png');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -59,7 +59,7 @@ section {
 
 
 .botao-inicio {
-    background-color: var(--azul-turquesa);
+    background-color: var(--vermelho-claro);
     border-radius: 30px;
     border: none;
     width: 14em;
@@ -69,7 +69,7 @@ section {
 
 
 .display-4 {
-    text-shadow: -5px 5px var(--azul-turquesa);
+    text-shadow: -5px 5px var(--vermelho-claro);
 }
 
 
@@ -78,7 +78,7 @@ section {
     padding: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('imagens/azul-laranja.png') top right no-repeat, url('imagens/azul-laranja.png') bottom left no-repeat;
+    background: url('imagens/vermelho_e_branco.png') top right no-repeat, url('imagens/vermelho_e_branco.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
@@ -106,13 +106,13 @@ h2 {
 
 
 .fundo-galeria {
-    background: url('imagens/azul-laranja.png') bottom right no-repeat;
+    background: url('imagens/vermelho_e_branco.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 
 #contato {
-    background-image: url('imagens/azul-laranja.png');
+    background-image: url('imagens/vermelho_e_branco.png');
     background-size: cover;
     padding: 4rem 0;
 }
